@@ -15,7 +15,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class FullscreenActivity extends AppCompatActivity {
-    private static final int TEMPO_PARA_CHAMAR_PROXIMA_ACTIVITY = 3000;
+    private static final int TEMPO_PARA_CHAMAR_PROXIMA_ACTIVITY = 5000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
